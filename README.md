@@ -1,12 +1,7 @@
 # sobre mim
 - 👋 ola,eu sou felipe 
 - 👍 meu email de contato é rossi.felipe@escola.pr.gov.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 eu estou interessado em aprender a novas linguagens de programação
+- 🌱 eu estou apredendo a programar recentemente a linguagem de javaScript e Scrach
+- 💞️ 
 - 📫 How to reach me ...
-
-<!---
-epilef1pc/epilef1pc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
